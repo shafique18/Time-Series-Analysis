@@ -1,4 +1,4 @@
-# Time-Series-Analysis
+# Time-Series-Analysise explanation 
 
 Time Series is one of the most commonly used techniques in data science. It has wide ranging applications – weather forecasting, predicting sales, analyzing year on year trends, etc. 
 
