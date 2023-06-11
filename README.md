@@ -7,7 +7,7 @@ This dataset is specific to time series and the challenge here is to forecast tr
 
 # Installing Jupyter notebook using Anaconda
 First, download Anaconda.
-Second, install the version of Anaconda which you downloaded.
+Install the version of Anaconda which you downloaded.
 run the notebook in command prompt or in terminal using
 # jupyter notebbok
 
